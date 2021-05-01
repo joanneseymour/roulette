@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    background-color: rgb(0, 90, 0);
+    height: 95vh;
+}
+
+canvas {
+    border: solid white 3px;
+}
