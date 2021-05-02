@@ -1,0 +1,23 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roulette.js",
+  "dependencies": {
+    "konva": "^7.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanneseymour/roulette.git"
+  },
+  "author": "Joanne Seymour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joanneseymour/roulette/issues"
+  },
+  "homepage": "https://github.com/joanneseymour/roulette#readme"
+}
