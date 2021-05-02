@@ -2,7 +2,7 @@ let ctx;
 
 window.setTimeout(
     function draw(){
-        let canvas = document.getElementById('tutorial');
+        let canvas = document.getElementById('gameBoardContainer');
         if (canvas.getContext) {
             ctx = canvas.getContext('2d');
             ctx.scale(8, 8);
